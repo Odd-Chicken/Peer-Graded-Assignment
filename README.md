@@ -26,7 +26,7 @@ odd_even(3) # it prints "Odd"
 - First item
 - Second item
 
-~~ The number 2 is odd.~~ This appears striketrough because it's wrong.
+~~The number 2 is odd.~~ This appears striketrough because it's wrong.
 
 
 
