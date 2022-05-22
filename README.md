@@ -13,7 +13,7 @@
 def odd_even(x):
     if x % 2 == 0 :
       print("Even")
-    else 
+    else:
       print("Odd")
       
 odd_even(3) # it prints "Odd"
