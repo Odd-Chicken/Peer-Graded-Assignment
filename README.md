@@ -1,6 +1,7 @@
 # My Jupiter Notebook on IBM Watson Studio (GitHub)
 
 **Patrícia Nogueira**
+
 I want to be a data analystic
 
 *I am interested in data science because it allows to observe patterns and, by doing so, helping people.*
